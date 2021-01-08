@@ -4,7 +4,7 @@
 $(document).ready(function(){
 //  input string
 //var str = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    var str = "BEETS";
+    var str = "HACKGWINNETT";
 
 //vars
     var cont, sp, curr, offx, arr, count, c2, x, y;
